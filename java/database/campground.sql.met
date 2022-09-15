@@ -1,0 +1,7 @@
+#Extended file properties defined by DbVisualizer
+#Tue Aug 16 15:37:42 BST 2022
+file.comment=
+exec.schema=public
+file.encoding=Cp1252
+exec.connection=4
+exec.catalog=campground
